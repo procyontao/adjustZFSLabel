@@ -2,7 +2,7 @@
 
 
 
-Follow suggestions from Gregor Kopka. Not yet finished.
+Follow suggestions from Gregor Kopka.
 http://list.zfsonlinux.org/pipermail/zfs-discuss/2018-November/032754.html
 
 Python files modified from
